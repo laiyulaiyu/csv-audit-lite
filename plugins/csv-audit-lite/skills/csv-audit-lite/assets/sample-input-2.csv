@@ -1,0 +1,5 @@
+customer_id,name,email,phone,zip,signup_date,note
+00456,Bob Li,bob.li@example.com,138****0002,00501,2024-04-10,updated email
+01000,Dana Kim ,NULL,139****0005,07302,2024-06-01,"multi-line
+note"
+,Another No Id,x@example.com,139****0006,60601,2024-06-02,missing key

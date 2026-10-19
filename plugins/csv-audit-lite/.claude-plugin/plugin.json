@@ -1,0 +1,8 @@
+{
+  "name": "csv-audit-lite",
+  "description": "Free offline CSV merge and cleanup with a per-change audit log.",
+  "version": "0.1.0",
+  "author": {
+    "name": "laiyu"
+  }
+}

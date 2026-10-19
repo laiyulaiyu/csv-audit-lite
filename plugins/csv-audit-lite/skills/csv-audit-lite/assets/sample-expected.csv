@@ -1,0 +1,9 @@
+customer_id,name,email,phone,zip,signup_date,note
+00123,Alice Wong,alice@example.com,138****0001,02134,03/04/2024,VIP
+00456,Bob Li,,138****0002,00501,2024-04-03,"Ordered twice, see ""history"""
+00789,Carla Diaz,carla@example.com,138****0003,10001,04/03/2024,"=HYPERLINK(""http://example.com"")"
+,No Id Person,noid@example.com,138****0004,94105,2024-05-01,missing key
+00456,Bob Li,bob.li@example.com,138****0002,00501,2024-04-10,updated email
+01000,Dana Kim,,139****0005,07302,2024-06-01,"multi-line
+note"
+,Another No Id,x@example.com,139****0006,60601,2024-06-02,missing key

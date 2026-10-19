@@ -1,0 +1,14 @@
+{
+  "name": "laiyu-data-tools",
+  "owner": {
+    "name": "laiyu",
+    "email": ""
+  },
+  "plugins": [
+    {
+      "name": "csv-audit-lite",
+      "source": "./plugins/csv-audit-lite",
+      "description": "Free offline CSV merge and cleanup with a per-change audit log (Agent Skill)."
+    }
+  ]
+}
